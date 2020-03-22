@@ -3,7 +3,7 @@
 Proposta di progetto per rilassare la pressione di COVID-19 sulla
 filiera alimentare.
 
-## Obiettivo
+## Obiettivo  
 
 **L’obiettivo** del progetto Insieme è di supportare la grande
 distribuzione alimentare per tutelare e preservare contemporaneamente
@@ -27,10 +27,12 @@ per le attività di cassa.
 
 Su assume che la formazione del nuovo personale addetto al caricamento
 degli scaffali sia piuttosto veloce, nell'ordine della mezza giornata.
+Tocca capire se servano presidi antinfortunistica "personali" tipo scarpe rinforzate per chi sta in magazzino a movimentare i pallet ect etc: chi fornisce questi presidi è accedibile o è chiuso? 
 
 La formazione del personale di cassa potrebbe essere più lunga, ma
 comunque non superiore alle due giornate, se i candidati sono scelti
 con criteri adeguati.
+la complicazione alle casse è data anche dalla pluralità di sistemi di pagamento che prevedono differenti usabilità (es: inquadra il QRcode, striscia, appoggia, carte accettate, carte non accettate. Esplicitare la lista delle carte accettate senza eseguire prove etc etc diminuisce il numero di frasi scambiate, l'emisisone di droplets, i tempi alla cassa. 
 
 Ma dove recuperare la forza lavoro per potenziare il personale? Le
 ipotesi di lavoro sono molte. La più intuitiva sarebbe quella di
